@@ -5,12 +5,12 @@ Little parser of tap.io with auto proxy.
 
 getting:
 
-  program name
+    program name
 
-  developer
+    developer
   
-  description
+   description
   
-  program picture
+   program picture
   
 The resulting name, developer, description, saves to a test file with the name of the program and places it in a folder with the name of the program, the image is placed next to it.
