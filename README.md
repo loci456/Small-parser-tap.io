@@ -3,7 +3,7 @@ Little parser of tap.io with auto proxy.
 
 # Parse site data
 
-getting:
+Getting:
 
     program name
 
