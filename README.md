@@ -1,5 +1,5 @@
 # Small-parser-tap.io
-Little parser of tap.io with auto proxy.
+Small parser of sites tap.io with auto proxy.
 
 # Parse site data
 
