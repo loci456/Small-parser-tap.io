@@ -1,7 +1,7 @@
 # Small-parser-tap.io
 Little parser of tap.io with auto proxy.
 
-#Parse site data
+# Parse site data
 
 getting:
   program name
